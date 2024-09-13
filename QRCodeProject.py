@@ -31,3 +31,4 @@ unique_filename = get_unique_filename(filename)
 qr_image.save(unique_filename, format="JPEG")
 
 print(f"QR code saved as {unique_filename}")
+ 

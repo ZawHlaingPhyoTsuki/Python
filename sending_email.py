@@ -28,4 +28,4 @@ qr_image.save(filename)
 
 print(f"QR code saved as {filename}")
 
-
+ 
